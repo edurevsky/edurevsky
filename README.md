@@ -5,6 +5,7 @@
 ## Meus conhecimentos:
 ### Linguagens:
 - Java
+- Kotlin
 - Python
 
 ### Frameworks:
